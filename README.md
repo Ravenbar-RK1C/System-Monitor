@@ -1,0 +1,1 @@
+system_monitor.py works on it's own on your local machine. For remote monitoring, install and run system_monitor.agent.py on the target machine, and add it's information to the JSON file on the local machine. 
