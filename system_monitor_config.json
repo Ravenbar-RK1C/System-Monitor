@@ -1,0 +1,26 @@
+{
+    "machines": [
+        {
+            "id": "local",
+            "label": "katniss",
+            "type": "local"
+        },
+        {
+            "id": "kd2qqf",
+            "label": "APRS Station Server",
+            "type": "remote",
+            "host": "192.168.1.14",
+            "port": 5006
+            },
+        {
+            "id": "firefly",
+            "label": "Firefly",
+            "type": "remote",
+            "host": "192.168.1.150",
+            "port": 5006}
+    ],
+    "poll_interval_ms": 1000,
+    "history_length": 150
+}
+
+
